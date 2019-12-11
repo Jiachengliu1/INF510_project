@@ -1,0 +1,2 @@
+# inf510_project
+The core of the research project focuses on investigating the NBA’s positional revolution. The project aims at finding and analyzing the trend of positional dominance (guard vs forward vs center) in the NBA in recent twenty years. Approach to the project is to evaluate the NBA’s positional dominance from three perspectives: player game statistics, player salary information, and the NBA draft information based on player position.
